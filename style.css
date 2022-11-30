@@ -1,0 +1,36 @@
+.change-color {
+    width: 200px;
+    height: 100px;
+    position: absolute;
+    top: 50%;
+    left: 40%;
+    transform: translate(-50%, -50%);
+}
+
+.change-gradient-color {
+    width: 200px;
+    height: 100px;
+    position: absolute;
+    top: 50%;
+    left: 60%;
+    transform: translate(-50%, -50%);
+}
+
+.show-color {
+    position: absolute;
+    top: 60%;
+    left: 39%;
+    transform: translate(-50%, -50%);
+    text-transform: uppercase;
+    font-size: 24px;
+    color: #fff;
+}
+
+.copy {
+    position: absolute;
+    top: 62%;
+    left: 45%;
+    transform: translate(-50%, -50%);
+    width: 100px;
+    height: 30px;
+}
